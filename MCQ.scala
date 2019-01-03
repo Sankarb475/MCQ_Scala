@@ -10,3 +10,6 @@ object dummy extends App{
   } yield value
   println(check)
 }
+
+// output :: List(one, two, three)
+
